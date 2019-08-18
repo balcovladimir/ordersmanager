@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.build/
+.config/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Node
+node/
+node_modules/
+webpack.config.js
+webpack.generated.js
+
+
